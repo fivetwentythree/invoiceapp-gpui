@@ -1,0 +1,13 @@
+[project]
+name = "clean-ledger"
+version = "0.1.0"
+description = "Monthly cleaning invoice and reconciliation system for Australian GST tax invoices."
+requires-python = ">=3.13"
+dependencies = []
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 100
+
